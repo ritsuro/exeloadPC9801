@@ -1,0 +1,43 @@
+
+ Start  Stop   Length Name                   Class            Group
+ 00000H 00994H 00995H CODE                   CODE
+ 009A0H 02D0BH 0236CH DATA                   DATA
+ 02D10H 0541FH 02710H STACK                  
+ 05420H 05AF2H 006D3H CODIPL                 CODIPL
+ 05B00H 0DC21H 08122H CODSYS                 CODSYS
+
+ Origin   Group
+
+  Address         Publics by Value
+
+ 0000:00A9       SYSSET
+ 0000:0310       SCWINI
+ 0000:0323       SCWSET
+ 0000:0341       SCWSEQ
+ 0000:03A0       SCWDRV
+ 0000:0450       PRNAH
+ 0000:048B       PRINT
+ 0000:04A2       DECSTR
+ 0000:04D9       INPUT
+ 0000:04F9       STRDEC
+ 0000:0532       HEXSTR
+ 0000:0574       STRHEX
+ 0000:05A1       BINSTR
+ 0000:05CC       STRBIN
+ 0000:05E9       STRCMP
+ 0000:05FB       CLS
+ 0000:0611       CSLON
+ 0000:0618       CSLOFF
+ 0000:061F       INPCHR
+ 0000:062A       CHPUT
+ 0000:0630       KESCAP
+ 0000:066F       KEYLOD
+ 0000:0673       PRNAB
+ 0000:0690       CCCIN
+ 0000:06A8       CCCOUT
+ 0000:06C4       CCCRD
+ 0000:06D8       CCCLOC
+ 0542:0000       IPLTOP
+ 0542:02D3       IPLEND
+ 05B0:0000       SYSTOP
+ 05B0:0B9E       SYSEND
